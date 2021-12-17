@@ -4,6 +4,7 @@
 4) pkg install python2 -y
 5) pkg install git -y
 6) pip install lolcat
+-) pkg install wget
 7) git clone https://github.com/noob-hackers/grabcam
 ls
 8) cd grabcam
