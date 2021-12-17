@@ -1,11 +1,10 @@
+-) pkg install wget
 1) apt-get update -y
 2) apt-get upgrade -y
 3) pkg install python -y
 4) pkg install python2 -y
 5) pkg install git -y
 6) pip install lolcat
-
--) pkg install wget
 7) git clone https://github.com/noob-hackers/grabcam
 ls
 8) cd grabcam
